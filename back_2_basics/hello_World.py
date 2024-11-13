@@ -4,4 +4,5 @@ name = input('Please enter your name: ')
 print() #blank line
 
 # Printing static text, followed by "name" variable.
-print('Hello', name, '\nHave a good day.') # \n to make a new line.
+# Swapping between single and double quotes. Just stay consistent!
+print('Hello', name, '\nHave a "good" day.') # \n to make a new line.
