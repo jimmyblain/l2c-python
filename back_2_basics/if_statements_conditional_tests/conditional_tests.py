@@ -14,7 +14,7 @@ print(car == 'Toyota')
 
 #5-7
 cars = ['toyota','subaru','nissan','ford','bmw']
-if 'Toyota'.lower() in cars:
+if 'Toyota'.lower() in cars: #Note the syntax used when checking if a value is in a List.
     print("We have that make.")
 
 if ('toyota') or ('tesla') in cars:
