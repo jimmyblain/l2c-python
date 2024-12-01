@@ -39,6 +39,7 @@ print(discography)
 discography = make_album('Lish Speaks', 'Please Use Exact Change', 10)
 print(discography)
 
+#Taking user input and passing using those values as function parameters
 #Infinite loop without the break points
 while True:
     print("\nPlease enter the artists' name and album title: ")
@@ -57,6 +58,7 @@ while True:
         break
     elif songs_known == 'y':
         songs_num = input("Enter the number of songs on the album: ")
+
         discography = make_album(artist, album, songs_num)
     else:
         discography = make_album(artist, album)
