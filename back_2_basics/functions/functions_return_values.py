@@ -33,7 +33,7 @@ def make_album(artist_name, album_title, song_amount=None):
 discography = make_album('Kanye West', "My Beutiful Dark Twisted Fantasy")
 print(discography)
 
-discography = make_album('50 Cent', 'Get Rich or Die Tryin')ß
+discography = make_album('50 Cent', 'Get Rich or Die Tryin')
 print(discography)
 
 discography = make_album('Lish Speaks', 'Please Use Exact Change', 10)
