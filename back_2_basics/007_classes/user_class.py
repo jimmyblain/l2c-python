@@ -29,7 +29,7 @@ class User:
 
 
 baromega = User("Jimmy", "Blain", 32, "Male", False)
-lishspeaks = User("Lish", "Blain", 36, "Female")
+lishspeaks = User("Alicia", "Blain", 36, "Female")
 baromega.describe_user()
 lishspeaks.describe_user()
 baromega.greet_user()
