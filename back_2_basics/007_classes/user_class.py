@@ -13,12 +13,14 @@ class User:
         self.is_active = is_active
 
     def describe_user(self):
+        '''Lists out attributes of the User object'''
         print(f"\nFull name: {self.full_name.title()}")
         print(f"Age: {self.age}")
         print(f"Gender: {self.gender.title()}")
         print(f"Account Status: {self.is_active}")
 
     def greet_user(self):
+        '''Greets the user and informs them of their account status'''
         print(f"\nHello {self.full_name.title()}!")
         if self.is_active:
             print("Your account is in good standing.")
