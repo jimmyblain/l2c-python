@@ -1,4 +1,5 @@
 # 9-13
+# Import functions from random module, which is part of the Python Standard Library
 from random import randint
 
 class Die:
@@ -7,6 +8,7 @@ class Die:
         self.sides = sides
 
     def roll_die(self):
+        '''Prints a random number between 1 and the sides of the Die object'''
         self.roll = randint(1, self.sides)
         print(f"You rolled a {self.roll}")
 
