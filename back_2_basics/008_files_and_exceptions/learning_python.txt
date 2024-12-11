@@ -1,0 +1,5 @@
+In Python you can create lists without defining its size
+In Python you can declare a variable within the loop statement
+In Python you can use helpful functions in the included modules and libraries
+In Python you can use dictionaries to store and sort information without resorting to classes
+In Python you can easily sort lists and manipulate strings with included libraries
