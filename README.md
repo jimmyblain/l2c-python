@@ -1,3 +1,3 @@
 # Learn to Cloud - Python
 
-I learned C++ and Java over 10 years ago when studying Information Systems in college. Hoping that programming is like riding a bike!
+Collection of learnings, exercises and projects completed as I go through the [https://nostarch.com/python-crash-course-3rd-edition](Python Crash Course) - by Eric Matthes
