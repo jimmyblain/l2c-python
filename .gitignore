@@ -3,3 +3,56 @@ back_2_basics/007_classes/__pycache__/restaurant.cpython-311.pyc
 back_2_basics/007_classes/__pycache__/user.cpython-311.pyc
 back_2_basics/.DS_Store
 .DS_Store
+back_2_basics/009_testing_code/testing_classes/__pycache__/employee_class.cpython-311.pyc
+back_2_basics/009_testing_code/testing_classes/__pycache__/test_employee_class_raises.cpython-311-pytest-8.3.4.pyc
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# Rope
+.ropeproject
+
+# Django stuff:
+*.log
+*.pot
+
+# Sphinx documentation
+docs/_build/
